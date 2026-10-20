@@ -1,5 +1,5 @@
 // 画像やファイルを差し替えたら、この番号を上げると確実に更新されます
-const CACHE = 'tsubu-v2';
+const CACHE = 'tsubu-v5';
 
 const ASSETS = [
   './',
@@ -20,8 +20,15 @@ const ASSETS = [
   './images/icon-riku.png',
   './images/icon-natsu.png',
   './images/icon-takeru.png',
+  './images/icon-volley.png',
+  './images/icon-momotasu.png',
+  './images/icon-ribbon.png',
+  './images/icon-heart.png',
+  './images/icon-flower.png',
+  './images/icon-usagi.png',
   './images/post-01.jpg',
   './images/post-02.jpg',
+  './images/post-volley.jpg',
 ];
 
 self.addEventListener('install', (e) => {
