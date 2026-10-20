@@ -1,5 +1,5 @@
 // 画像やファイルを差し替えたら、この番号を上げると確実に更新されます
-const CACHE = 'tsubu-v7';
+const CACHE = 'tsubu-v8';
 
 const ASSETS = [
   './',
